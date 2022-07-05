@@ -106,7 +106,7 @@ a:hover{
 }
 
 .about-section{
-    background-color: black;
+    background-color: rgb(36, 32, 32);
     color: white;
     display: flex;
     justify-content: space-between;
@@ -136,7 +136,7 @@ a:hover{
 }
 
 .about-us{
-    background-color: black;
+    background-color: rgb(36, 32, 32);
     color: white;
     text-align: center;
     margin-top: 10%;
