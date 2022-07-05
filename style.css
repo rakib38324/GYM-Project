@@ -105,3 +105,59 @@ a:hover{
     justify-content: space-around;
 }
 
+.about-section{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 30px;
+
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.about-image{
+    display: flex;
+    border-top: 1px solid red;
+    padding: 30px;
+    
+   
+}
+.about-image img{
+    width: 45%;
+    margin: 20px;
+    
+    
+}
+.image1{
+    transform: skewY(-15deg);
+    padding-top: 25px;
+
+}
+
+.about-us{
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-top: 10%;
+}
+
+.about-discription{
+    width: 65%;
+    border-top: 1px solid green;
+    padding: 30px;
+
+}
+
+.li-font{
+    font-size: 20px;
+}
+
+#font-size{
+    font-size: 25px;
+    color: gray;
+}
+
+#h1-size{
+    font-size: 40px;
+}
