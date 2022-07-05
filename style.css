@@ -91,6 +91,7 @@ a:hover{
     border-color: green;
     margin: -1px;
     transition: 1ms;
+    box-shadow: 10px 10px 30px green;
 }
 
 .box img{
