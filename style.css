@@ -1,17 +1,68 @@
+*{
+    margin: 0PX;
+}
 .nav-bar {
     background-color: black;
     color: white;
     display: flex;
     justify-content: space-between;
 }
+h1{
+    font-size: 55px;
+    
+}
 
+.size{
+    font-size: 25px;
+}
+
+.color{
+    color: red;
+}
 .nav-bar-iteam {
     font-size: 20px;
     display: flex;
-    padding: 20px;
+ 
 }
 
 .nav-bar-iteam li {
     list-style: none;
-    margin: 10px;
+    margin: 20px;
 }
+
+.front-page{
+    display: flex;
+    background-color: black;
+    color: white;
+}
+
+.font-size{
+    font-size: 65px;
+    margin-bottom: 10px;
+}
+
+.introduction{
+    padding-top: 12%;
+    padding-left: 60px;
+    margin-bottom: 12%;
+}
+
+.image-size img{
+    width: 90%;
+   
+}
+
+.button{
+    background-color: red;
+    border: 1px solid red;
+    padding: 10px;
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+a:hover{
+    background-color: rgb(3, 0, 165);
+    border: blue;
+}
+
